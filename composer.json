@@ -1,0 +1,24 @@
+{
+    "name": "king/enterprise",
+    "description": "first",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wangzhiqi",
+            "email": "w17634070972@163.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    },
+    "autoload":{
+        "files": ["king/common.php"],
+        "psr-4": {"King\\King\\k\\a\\b\\b\\b\\b\\b\\s\\da\\sdsa\\dsa\\ssa\\das\\a\\a\\":"king/king"}
+    }
+}
