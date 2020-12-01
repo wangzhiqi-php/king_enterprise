@@ -1,6 +1,6 @@
 {
     "name": "king/enterprise",
-    "description": "first",
+    "description": "this is a common function",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -14,11 +14,11 @@
     "repositories": {
         "packagist": {
             "type": "composer",
-            "url": "https://packagist.phpcomposer.com"
+            "url": "https://mirrors.aliyun.com/composer/"
         }
     },
-    "autoload":{
-        "files": ["king/common.php"],
-        "psr-4": {"King\\King\\k\\a\\b\\b\\b\\b\\b\\s\\da\\sdsa\\dsa\\ssa\\das\\a\\a\\":"king/king"}
+    "autoload": {
+        "files": ["src/common.php"],
+        "psr-4": {"Wangzhiqi\\king\\enter_prise\\": "src/king"}
     }
 }

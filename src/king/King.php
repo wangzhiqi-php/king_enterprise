@@ -1,5 +1,5 @@
 <?php
-namespace King\King\k\a\b\b\b\b\b\s\da\sdsa\dsa\ssa\das\a\a;
+namespace Wangzhiqi\king\enter_prise;
 
 class King
 {
